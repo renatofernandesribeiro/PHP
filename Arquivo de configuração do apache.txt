@@ -1,1 +1,2 @@
 httppd.conf
+traduzir o texto
